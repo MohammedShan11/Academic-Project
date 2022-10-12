@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121144636345",
+    "project_id": "tyootoshibil-a6a25",
+    "storage_bucket": "tyootoshibil-a6a25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121144636345:android:aeac49f12a715967413c68",
+        "android_client_info": {
+          "package_name": "com.aljamia.tyooto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121144636345-6h1h4b7g047ridotjh8936rq9a021f44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfHeAQmxEzUAP_AI8f62vMXVn1BkFxraw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121144636345-6h1h4b7g047ridotjh8936rq9a021f44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
